@@ -7,6 +7,7 @@
 	margin-bottom: 3px;
 	border: 1px solid rgba(255, 255, 255, 0.3);
 	border-radius: 2px;
+	color: #333;
 }
 
 .main aside input[type="submit"] {
