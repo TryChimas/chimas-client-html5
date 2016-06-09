@@ -8,6 +8,10 @@ A live version of this client (in development) is here:
 
 [https://trychimas.github.io/chimas-client-html5/](https://trychimas.github.io/chimas-client-html5/)
 
+#### Note
+
+Note that our main branch is `gh-pages`.
+
 #### License
 
 This is licensed under GNU General Public License v. 3

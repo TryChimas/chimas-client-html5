@@ -3,7 +3,7 @@
 .main aside input[type="text"] {
 	width: 100%;
 	line-height: 22px;
-	padding: 0 3px 0 px;
+	padding: 2px 5px 2px 5px;
 	margin-bottom: 2px;
 	border: 1px solid #ddd;
 	border-radius: 2px;
@@ -11,4 +11,9 @@
 
 .main aside input[type="submit"] {
 	width: 100%;
+	color: #fff;
+	background-color: #333;
+	border: 0;
+	border-radius: 2px;
+	padding: 7px;
 }
